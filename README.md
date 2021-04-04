@@ -1,14 +1,22 @@
-# CJL-QUIZ
-## Description:
-### This code displays a fully functional coding quiz.
+# CJL-Calender - Work Day Scheduler Third Party API
+
+uses Moment.js to calculate the time and compare past, present and future events. Event information is stored in the localstorage of the browser. 
 
 
-Screen SHOT of Application:
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
-![Screenshot 3](screenshot3.png)
 
-[link to Deployed Application site!](https://clouis12.github.io/)
+## Links:
 
-[link to GitHub URL !](https://github.com/Clouis12/CJL-QUIZ)
+Live Site: 
+     https://clouis12.github.io/
+   
+Code Repo: 
+     https://github.com/Clouis12/CJL-Calender
+  
+Issues & Explanation:
+     https://github.com/Clouis12/CJL-Calender/blob/main/README.md
+
+
+## Screenshots
+![image-1](screenshots/1.png)
+![image-2](screenshots/2.png)
