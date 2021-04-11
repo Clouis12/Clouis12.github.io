@@ -1,22 +1,22 @@
-# CJL-Calender - Work Day Scheduler Third Party API
+# Name Of Git Repository
+CJL-Weather
 
-uses Moment.js to calculate the time and compare past, present and future events. Event information is stored in the localstorage of the browser. 
+## Description
 
+The weather dashboard utilizes open weather API to pull weather forcast for user indicated cities.
 
-
-
-## Links:
-
-Live Site: 
-     https://clouis12.github.io/
-   
-Code Repo: 
-     https://github.com/Clouis12/CJL-Calender
-  
-Issues & Explanation:
-     https://github.com/Clouis12/CJL-Calender/blob/main/README.md
+A clear button was also added for user convenience to maintain cleanliness, enabling user to delete previous entries.
 
 
 ## Screenshots
-![image-1](screenshots/1.png)
-![image-2](screenshots/2.png)
+
+![Screenshot 1](Assets/ss1.png)
+![Screenshot 2](Assets/ss2.png)
+![Screenshot 3](Assets/ss3.png)
+![Screenshot 4](Assets/ss4.png)
+
+
+[link to Deployed Application site!](https://clouis12.github.io/)
+
+[link to GitHub URL !](https://github.com/Clouis12/CJL-Weather)
+
