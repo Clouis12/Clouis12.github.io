@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db878ff0.chunk.css",
+    "main.js": "/static/js/main.07c35515.chunk.js",
+    "main.js.map": "/static/js/main.07c35515.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aeacce10.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aeacce10.js.map",
+    "static/js/2.7107ca47.chunk.js": "/static/js/2.7107ca47.chunk.js",
+    "static/js/2.7107ca47.chunk.js.map": "/static/js/2.7107ca47.chunk.js.map",
+    "static/js/3.5db2e1c0.chunk.js": "/static/js/3.5db2e1c0.chunk.js",
+    "static/js/3.5db2e1c0.chunk.js.map": "/static/js/3.5db2e1c0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.db878ff0.chunk.css.map": "/static/css/main.db878ff0.chunk.css.map",
+    "static/js/2.7107ca47.chunk.js.LICENSE.txt": "/static/js/2.7107ca47.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/fitnesstracker.d85c3cd6.png",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/resume.c0d2a158.docx": "/static/media/resume.c0d2a158.docx",
+    "static/media/ricebkg.ae1569b6.jpeg": "/static/media/ricebkg.ae1569b6.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aeacce10.js",
+    "static/js/2.7107ca47.chunk.js",
+    "static/css/main.db878ff0.chunk.css",
+    "static/js/main.07c35515.chunk.js"
+  ]
+}
